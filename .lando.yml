@@ -1,0 +1,6 @@
+name: vaccineinformation
+recipe: pantheon
+config:
+  framework: wordpress
+  site: vaccineinformation
+  id: a6da486f-2848-4c67-bade-728515918370
